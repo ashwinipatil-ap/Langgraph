@@ -16,7 +16,6 @@ python customer_support_agent.py
 ```
 
 ## Notes
-- Edit `.env` to include any secret keys
 - Persists memory to `user_memory.json`
 
 
